@@ -1,6 +1,6 @@
-const dbConnect = () =>{
-    console.log('Database connected');
+// const dbConnect = () =>{
+//     console.log('Database connected');
     
-}
+// }
 
-module.exports = dbConnect;
+// module.exports = dbConnect;
